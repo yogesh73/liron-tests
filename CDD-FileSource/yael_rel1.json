@@ -33,6 +33,7 @@
 	},
 	{
 		"phase": "Yael - Copy/1/p1 - Copy - Copy",
+		
 		"isDisabled": true,
 		"applicationVersions": ["Local|Yael/copy-1"],
 		"name": "manual1",
