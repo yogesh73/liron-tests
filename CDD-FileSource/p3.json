@@ -1,0 +1,14 @@
+{
+	"objects": [{
+		"application": "Local|Yael",
+		"name": "copy-1",
+		"kind": "ApplicationVersion"
+	},
+{
+		"phase": "Yael - Copy/1/p2",
+		"isDisabled": false,
+		"ownerParties": ["rel1@ca.com"],
+		"name": "t3",
+		"kind": "Task"
+	}]
+	}
