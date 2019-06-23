@@ -1,0 +1,24 @@
+{
+	"objects": [{
+		"application": "Local|Yael",
+		"name": "1",
+		"kind": "ApplicationVersion"
+	},
+	{
+		"ownerParties": ["superuser@ca.com"],
+		"applicationVersions": ["Local|Yael/1"],
+		"markAsDonePhaseName": "",
+		"runOnCreation": false,
+		"version": "1",
+		"name": "Yael",
+		"kind": "Release"
+	},
+	{
+		"approvalGate": "MANUAL",
+		"skipTasksWithUnchangedApplications": false,
+		"isApprovalRequired": false,
+		"release": "Yael/1",
+		"name": "p1",
+		"kind": "Phase"
+	}]
+}
