@@ -46,7 +46,6 @@
 		"name": "ra1",
 		"kind": "Task",
 		"plugin": "Release Automation/5.5.7",
-    
 		"type": "Run Deployment",
 		"parameters": {
 			"environment": "Environment for Default Architecture",
