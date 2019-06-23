@@ -37,25 +37,6 @@
 		"applicationVersions": ["Local|Yael/copy-1"],
 		"name": "manual1",
 		"kind": "Task"
-	},
-	{
-		"phase": "Yael - Copy/1/p1 - Copy - Copy",
-		"previousTasks": ["manual1"],
-		"isDisabled": false,
-		"applicationVersions": ["Local|Yael/copy-1"],
-		"name": "ra1",
-		"kind": "Task",
-		"plugin": "Release Automation/5.5.7",
-		"type": "Run Deployment",
-		"parameters": {
-			"environment": "Environment for Default Architecture",
-			"application": "Test app",
-			"deploymentPlan": "dp1",
-			
-			"build": "%Yael.last_successful_change%",
-			"project": "yael test"
-		},
-		"endpoint": "RA"
-		
-	}]
+	}
+	]
 }
