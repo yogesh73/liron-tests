@@ -52,6 +52,7 @@
 			"environment": "Environment for Default Architecture",
 			"application": "Test app",
 			"deploymentPlan": "dp1",
+			
 			"build": "%Yael.last_successful_change%",
 			"project": "yael test"
 		},
