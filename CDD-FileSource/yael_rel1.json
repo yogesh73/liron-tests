@@ -6,8 +6,7 @@
 	},
 	{
 		"ownerParties": ["rel11@ca.com"],
-		"applicationVersions": ["Local|Yael/copy-1"],
-		
+		"applicationVersions": ["Local|Yael/copy-1"],		
 		"markAsDonePhaseName": "",
 		"runOnCreation": false,
 		"version": "1",
