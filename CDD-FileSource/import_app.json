@@ -4,6 +4,7 @@
 		"kind": "Application"
 	},		    
 	{
+		
 		"applications": ["Local|Yael234"],
 		"name": "qa2",
 		"kind": "Environment"
