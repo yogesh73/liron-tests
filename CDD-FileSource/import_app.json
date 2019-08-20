@@ -6,7 +6,7 @@
 	{
 		
 		"applications": ["Local|Yael234"],
-		"name": "qa2",
+		"name": "qa",
 		"kind": "Environment"
 	}]
 }
