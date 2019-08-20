@@ -5,7 +5,7 @@
 	},		    
 	{
 		
-		"applications": ["Local|Yael1f110"],
+		"applications": ["Local|Yael1110"],
 		"name": "qa",
 		"kind": "Environment"
 	}]
