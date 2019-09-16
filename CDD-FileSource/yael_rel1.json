@@ -1,6 +1,4 @@
-{
-	
-	"objects": [{
+{	"objects": [{
 		"application": "Local|Yael",
 		"name": "copy-1",
 		"kind": "ApplicationVersion"
@@ -32,9 +30,7 @@
 		"release": "Yael - Copy/1",
 		"name": "p2",
 		"kind": "Phase"
-	},
-		    
-		    
+	},	    
 	{
 		"phase": "Yael - Copy/1/p1 - Copy - Copy",
 		
