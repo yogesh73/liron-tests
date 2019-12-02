@@ -1,1 +1,2 @@
-{"objects":[{"applications":[],"environments":["env1"],"name":"yael rally","kind":"Endpoint","plugin":"Rally®/2.10","type":"Rally","parameters":{"workspace":"CA Technologies","apikey":"_wXwP8EBXSpO6Yrp7koAljYcLL8FZ0KbtirU95wlMXw","useProxy":"false","url":"https://rally1.rallydev.com/"}}]}
+{"objects":[
+  {"applications":[],"environments":["env1"],"name":"yael rally","kind":"Endpoint","plugin":"Rally®/2.10","type":"Rally","parameters":{"workspace":"CA Technologies","apikey":"_wXwP8EBXSpO6Yrp7koAljYcLL8FZ0KbtirU95wlMXw","useProxy":"false","url":"https://rally1.rallydev.com/"}}]}
