@@ -1,0 +1,44 @@
+{
+	"objects": [
+		{
+			"application": "Local|end date",
+			"name": "10",
+			"kind": "ApplicationVersion"
+		},
+		{
+			"applicationVersions": [
+				"Local|end date/10"
+			],
+			"plannedStartDate": "26/01/2020 08:33:53 +02",
+			"plannedEndDate": "31/01/2020 08:34:01 +02",
+			"ownerParties": [
+				"superuser@ca.com"
+			],
+			"markAsDonePhaseName": "",
+			"runOnCreation": false,
+			"version": "1",
+			"name": "Release end date",
+			"kind": "Release"
+		},
+		{
+			"release": "Release end date/1",
+			"environments": [
+				"Dev"
+			],
+			"approvalGate": "AUTOMATIC",
+			"skipTasksWithUnchangedApplications": false,
+			"isApprovalRequired": false,
+			"name": "phase end date",
+			"kind": "Phase"
+		},
+		{
+			"phase": "Release end date/1/phase end date",
+			"applicationVersions": [
+				"Local|end date/10"
+			],
+			"isDisabled": false,
+			"name": "task end date",
+			"kind": "Task"
+		}
+	]
+}
