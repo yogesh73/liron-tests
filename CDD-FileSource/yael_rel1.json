@@ -5,6 +5,7 @@
 		"kind": "ApplicationVersion"
 	},
 	{
+		
 		"ownerParties": ["rel11@ca.com"],
 		"applicationVersions": ["Local|Yael/copy-1"],		
 		"markAsDonePhaseName": "",
