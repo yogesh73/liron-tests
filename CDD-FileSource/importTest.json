@@ -1,0 +1,36 @@
+{
+	"objects": [
+		{
+			"name": "Tehila",
+			"kind": "Application"
+		},
+		{
+			"application": "Local|Tehila",
+			"name": "1",
+			"kind": "ApplicationVersion"
+		},
+		{
+			"application": "Local|Tehila",
+			"commitRegularExpression": "^[ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\t]*([A-Za-z0-9_]+)",
+			"excludeFilesAndFolders": "jjj",
+			"includeFilesAndFolders": "jjj",
+			"name": "Tehila_commitSource",
+			"kind": "CommitSource",
+			"endpoint": "git",
+			"plugin": "GitHub/1.0.3",
+			"type": "Get Commit Messages",
+			"parameters": {
+				"owner": "jjj",
+				"repository": "jjj"
+			}
+		},
+		{
+			"application": "Local|Tehila",
+			"name": "Tehila_contentSource",
+			"kind": "ContentSource",
+			"endpoint": "rally",
+			"plugin": "Rally®/2.11",
+			"type": "Add Content"
+		}
+	]
+}
